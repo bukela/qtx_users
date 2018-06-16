@@ -1,6 +1,7 @@
 # qtx_users
 
-DB name - qtx
+
+$db = mysqli_connect('localhost', 'root', '1005', 'qtx');
 
 CREATE TABLE users
 (
